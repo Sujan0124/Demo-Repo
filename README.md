@@ -1,2 +1,2 @@
-# Demo-Repo
-This is my first Git
+# Sujan
+This is my first time using Git
